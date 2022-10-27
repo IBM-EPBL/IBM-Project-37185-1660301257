@@ -1,0 +1,12 @@
+Batch No : B1-1M3E
+
+                                                  PROPOSED SYSTEM
+                                                  
+         The proposed system makes use of an embedded system based on GSM Technology and Internet of Things. To avoid the
+accident, the automotive proximity sensor are deployed inside the car to find out the interruption in path . And to
+ensure safety even after the accident an alert mechanism is governed which uses a GPS system to get position of the
+vehicle and it sends to authorized person when the vehicle face the accident which is sensed by a vibration sensor. A
+gas senor is used to found the drunken driver only if driver is not get dunked then only the ignition get start, the eye blink
+sensor detects the drowsiness of the driver and give alert using the buzzer. All these status will be updated on the portal
+using Internet of Things. 
+
