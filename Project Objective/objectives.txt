@@ -1,0 +1,36 @@
+Project Objectives
+
+By the end of this project you will:
+
+        Gain knowledge of Watson IoT Platform.
+
+        Connecting IoT devices to the Watson IoT platform and exchanging the data and to display values.
+
+        Gain knowledge of OpenWeatherMap API Service
+
+        Creating a Web Application through which the user interacts with the device.
+
+Project Flow:
+
+        Receiving road sign values to the IBM IoT platform from Node-RED Web UI
+
+        Weather conditions can be viewed in the Web Application
+
+To accomplish this, we have to complete all the activities and tasks listed below:
+
+
+        Create and configure IBM Cloud Services
+
+        Create IBM Watson IoT Platform 
+
+        Create a device & configure the IBM IoT Platform
+
+        Create Node-RED service
+
+        Create a database in Cloudant DB to store location data
+
+        Develop a web Application using Node-RED Service.
+
+        Develop the web application using Node-RED
+
+        Develop a python script to publish the location details to the IBM IoT platform 
